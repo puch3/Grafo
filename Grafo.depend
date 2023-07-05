@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1566394313 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1566395342 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1566395359 source:c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1598390887 c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1662056347 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1662125788 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\grafo\grafo.h
+	<list>
+
+1664991043 source:c:\users\puche\downloads\grafo\main.cpp
+	"Grafo.h"
+	"Servicios.cpp"
+	"iostream"
+
+1664993570 c:\users\puche\downloads\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+
+1664992132 source:c:\users\puche\downloads\grafo\servicios.cpp
+	"Servicios.h"
+
+1664990045 c:\users\puche\downloads\grafo\servicios.h
+	"Grafo.h"
+
+1664992375 c:\users\puche\downloads\grafo\servicios.cpp
+
+1669258396 source:c:\users\puche\desktop\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+	<iostream>
+	<fstream>
+
+1668703299 c:\users\puche\desktop\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+
+1664992375 c:\users\puche\desktop\grafo\servicios.cpp
+
